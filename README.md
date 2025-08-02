@@ -1,7 +1,7 @@
 
 # PLAYSTATION MODDING GUIDE
 
-* By: Sumeet Singh @ sumeet-singh.com
+* By: Sumeet Singh
 * Created: October 2024
 * Version: 1.0 (October 2024)
 * Description: How to mod a Playstation 2 to play your legally dumped games digitally for preservation purposes. This method allows playing games on
