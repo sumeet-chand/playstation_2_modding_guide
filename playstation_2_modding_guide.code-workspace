@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.md": "markdown",
+			"*.txt": "plaintext"
+		},
+		"name":"sandbox",
+	}
+}
